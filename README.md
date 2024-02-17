@@ -1,6 +1,5 @@
-<div width: 200px>
+
   <img src="github-header-image (1).png" width="200"/>
-</div>
 
 
 
