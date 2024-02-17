@@ -37,7 +37,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](ENLACE_A_TU_PAGINA_O_REPOSITORIO_DE_MYSQL)
 
 
-# HABILDADES OFIMATICAS 
+# HABILIDADES OFIMATICAS
 
 [![Excel](https://img.shields.io/badge/Excel-%23217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white)](ENLACE_A_TU_PAGINA_O_REPOSITORIO_DE_EXCEL)
 [![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?&style=for-the-badge&logo=power-bi&logoColor=white)](ENLACE_A_TU_PAGINA_O_REPOSITORIO_DE_POWER_BI)
