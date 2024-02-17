@@ -1,5 +1,7 @@
-
-  <img src="github-header-image (1).png" width="200"/>
+<div  width: 50%>
+ <img src="github-header-image (1).png" width="200"/>
+</div>
+ 
 
 
 
