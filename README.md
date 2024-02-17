@@ -13,6 +13,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zanyllect58&show_icons=true&theme=transparent)
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 
 
