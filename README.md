@@ -1,11 +1,9 @@
-<div  width: 50%>
- <img src="github-header-image (1).png" width="200"/>
-</div>
+# <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b761127olb4xw6iplt4i8bfwyjuyrsehncwdf4vqkufll&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/> BIENVENID@S ANDRES GALEANO
+
+![Banner de andres](github-header-image.png)
+
  
 
-
-
-Hi 👋 My name is Andres GALEANO
 ===============================
 
 ### Skills
