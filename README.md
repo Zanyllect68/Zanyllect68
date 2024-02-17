@@ -1,4 +1,5 @@
-# <div style="text-align: center;"><img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b761127olb4xw6iplt4i8bfwyjuyrsehncwdf4vqkufll&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/> BIENVENID@S ANDRES GALEANO</div>
+# <div style="text-align: center;"><img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=790b761127olb4xw6iplt4i8bfwyjuyrsehncwdf4vqkufll&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/><p>BIENVENID@S ANDRES GALEANO</p></div>
+
  
 
 ![Banner de andres](github-header-image.png)
