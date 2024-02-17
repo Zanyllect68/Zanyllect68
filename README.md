@@ -20,6 +20,16 @@
 </div>
 
 
+LENGUAJE DE PROGRAMACION 
+
+[![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white)](ENLACE_A_TU_PAGINA_O_REPOSITORIO_DE_SCALA)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](ENLACE_A_TU_PAGINA_O_REPOSITORIO_DE_JAVA)
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](ENLACE_A_TU_PAGINA_O_REPOSITORIO_DE_PYTHON)
+[![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](ENLACE_A_TU_PAGINA_O_REPOSITORIO_DE_C)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](ENLACE_A_TU_PAGINA_O_REPOSITORIO_DE_CPP)
+
+
+
 
 
 
