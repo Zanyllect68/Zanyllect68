@@ -8,7 +8,7 @@
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](ENLACE_A_TU_PAGINA_DE_NOTION)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](ENLACE_A_TU_PERFIL_DE_HACKERRANK)
 </div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zanyllect58&show_icons=true&theme=transparent)
 
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
@@ -17,7 +17,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zanyllect58&show_icons=true&theme=transparent)
+
 
 
 
