@@ -1,7 +1,7 @@
 ![Banner de andres](github-header-image.png)
 
 
-<div align=center>">
+<div align=center>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_A_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](TU_ENLACE_A_TWITTER)
