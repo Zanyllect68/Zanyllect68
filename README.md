@@ -1,4 +1,3 @@
-![Banner de andres](2.png)
 
 
 <div align=center>
