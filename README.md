@@ -12,7 +12,7 @@
   <img src="6.gif" width="200"/>
   <img src="5.gif" width="200"/>
 </p>
-@Polygon1993
+Créditos: [@Polygon1993](https://github.com/Polygon1993)
 
 
 
