@@ -1,19 +1,5 @@
 
 
-<div align=center>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-felipe-galeano-tellez-a7285a250)
-
-</div>
-
-<div align=center>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zanyllect58&show_icons=true&theme=transparent)
-<img align="right" height="200px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnM1ajJldnl5N3N1MjU3cHJpdHY1aXYyOGM2eTF1YThuOGFscnZ5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HN6GLlUsMvue652b2w/giphy.gif" />
-
-
-</div>
-
 
 # LENGUAJE DE PROGRAMACION 
 
