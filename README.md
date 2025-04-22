@@ -4,6 +4,8 @@
 
 
 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=plastic&logo=postgresql&logoColor=white)](ENLACE_A_TU_PAGINA_O_REPOSITORIO_DE_POSTGRESQL)
+[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white)](ENLACE_A_TU_PAGINA_O_REPOSITORIO_DE_MYSQL)
 
 # LENGUAJE DE PROGRAMACION 
 
