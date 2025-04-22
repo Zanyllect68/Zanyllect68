@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="86-Anime-Episode-4.jpg>
-</p>
+<img src="86-Anime-Episode-4.jpg>
+
 
 
 # LENGUAJE DE PROGRAMACION 
