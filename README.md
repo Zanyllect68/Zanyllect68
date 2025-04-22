@@ -2,7 +2,7 @@
   <img src="download.gif" width="200"/>
   <img src="3.gif" width="200"/>
   <img src="4.gif" width="200"/>
-  <img src="9" width="200"/>
+  <img src="9.gif" width="200"/>
   <img src="10.gif" width="200"/>
   <img src="11.gif" width="200"/>
   <img src="12.gif" width="200"/>
