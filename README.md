@@ -1,4 +1,4 @@
-<img src="86-Anime-Episode-4.jpg">
+![Banner](86-Anime-Episode-4.jpg)
 
 
 
