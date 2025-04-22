@@ -12,7 +12,8 @@
   <img src="6.gif" width="200"/>
   <img src="5.gif" width="200"/>
 </p>
-Créditos: [@Polygon1993](https://github.com/Polygon1993)
+<!-- Creado por @Polygon1993 -->
+
 
 
 
