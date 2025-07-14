@@ -41,9 +41,6 @@ Transformo problemas reales en soluciones tecnológicas efectivas.
   <a href="https://www.linkedin.com/in/andres-felipe-galeano-tellez-a7285a250">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Zanyllect58">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 <p align="center"><i>“Transformar datos en decisiones, y problemas en oportunidades.”</i></p>
