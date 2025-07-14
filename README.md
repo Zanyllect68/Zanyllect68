@@ -26,7 +26,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zanyllect58&show_icons=true&theme=radical&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanyllect58&layout=compact&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanyllect58&layout=compact&theme=radical&hide_border=true" width="44%"/>
 </div>
 
 ---
@@ -39,9 +39,6 @@
   </a>
   <a href="https://www.linkedin.com/in/andres-felipe-galeano-tellez-a7285a250">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Zanyllect58">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
