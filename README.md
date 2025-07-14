@@ -1,10 +1,10 @@
-# 👨‍💻 Andres Felipe Galeano Tellez
+<h1 align="center">👨‍💻 Andres Felipe Galeano Tellez</h1>
 
-🎓 Ingeniero de Sistemas en formación | 📍 Tunja, Boyacá, Colombia  
-📊 Apasionado por los datos, la programación y las soluciones reales.  
+<p align="center">
+🎓 Ingeniero de Sistemas en formación | 📍 Tunja, Boyacá, Colombia <br/>
+📊 Apasionado por los datos, la programación y las soluciones reales. <br/>
 🎯 Mi objetivo: convertir datos complejos en información útil mediante el análisis, desarrollo y automatización.
-
----
+</p>
 
 ## 🛠️ Tech Stack y Herramientas
 
