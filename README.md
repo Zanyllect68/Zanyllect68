@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Andres Felipe Galeano Tellez</h1>
 
 <p align="center">
-Estudiante de Ingeniería de Sistemas en Tunja, Boyacá 🇨🇴<br>
+Estudiante de Ingeniería de Sistemas 
 Apasionado por los datos, el desarrollo web y la automatización.<br>
 Transformo problemas reales en soluciones tecnológicas efectivas.
 </p>
