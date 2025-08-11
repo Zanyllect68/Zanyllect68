@@ -26,7 +26,7 @@ Transformo problemas reales en soluciones tecnológicas efectivas.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zanyllect58&show_icons=true&theme=radical&hide_border=true" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanyllect58&layout=compact&theme=radical&hide_border=true" width="40%">
+  <img src="https://github.com/Zanyllect58/Zanyllect58/blob/main/Life%20Code%20GIF.gif" width="33%">
 </div>
 
 ---
