@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Andres Felipe Galeano Tellez</h1>
+
 
 <p align="center">
 Estudiante de Ingeniería de Sistemas 
