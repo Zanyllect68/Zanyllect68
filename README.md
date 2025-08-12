@@ -10,27 +10,6 @@
 
 ## 🚀 Sobre Mí
 
-```python
-class AndresFelipe:
-    def __init__(self):
-        self.nombre = "Andrés Felipe Galeano Téllez"
-        self.rol = "Estudiante de Ingeniería de Sistemas"
-        self.ubicacion = "Colombia 🇨🇴"
-        self.lenguajes = ["Python", "Java", "JavaScript", "SQL"]
-        self.intereses = ["Desarrollo Web", "Ciencia de Datos", "IA", "Cloud Computing"]
-        self.objetivo = "Convertirme en un desarrollador full-stack excepcional"
-    
-    def saludo(self):
-        return "¡Hola! Soy un apasionado por la tecnología y la innovación 🚀"
-    
-    def mision(self):
-        return "Crear soluciones tecnológicas que impacten positivamente la sociedad"
-
-desarrollador = AndresFelipe()
-print(desarrollador.saludo())
-
-```
-
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
