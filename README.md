@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👨‍💻+Desarrollador+Full+Stack;📊+Analista+de+Datos;🤖+Entusiasta+de+IA;🚀+Siempre+aprendiendo" alt="Typing SVG" />
 </div>
 
----
+
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -21,14 +21,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux"/>
 </p>
 
----
+
 
 
 
 <div align="center">
   <img src="https://github.com/mrchangretta/mrchangretta/blob/main/Working%20Computer%20Science%20GIF%20by%20CC0%20Studios.gif" width="33%">
-  <img src="https://github.com/mrchangretta/mrchangretta/blob/main/Life%20Code%20GIF.gif" width="33%">
+
 </div>
 
----
 
