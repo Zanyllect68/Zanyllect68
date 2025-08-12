@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Andrés% Galeano&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20de%20Sistemas%20en%20Formación&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Andrés%20Galeano&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20de%20Sistemas%20en%20Formación&descAlignY=55&descSize=20" />
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👨‍💻+Desarrollador+Full+Stack;📊+Analista+de+Datos;🤖+Entusiasta+de+IA;🚀+Siempre+aprendiendo" alt="Typing SVG" />
