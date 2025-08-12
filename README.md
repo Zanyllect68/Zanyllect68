@@ -8,8 +8,6 @@
 
 ---
 
-## 🚀 Sobre Mí
-
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
