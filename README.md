@@ -1,10 +1,33 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Andrés%20Felipe&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20de%20Sistemas%20en%20Formación&descAlignY=55&descSize=20" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👨‍💻+Desarrollador+Full+Stack;📊+Analista+de+Datos;🤖+Entusiasta+de+IA;🚀+Siempre+aprendiendo" alt="Typing SVG" />
+</div>
 
-<p align="center">
-Estudiante de Ingeniería de Sistemas 
-Apasionado por los datos, el desarrollo web y la automatización.<br>
-Transformo problemas reales en soluciones tecnológicas efectivas.
-</p>
+---
+
+## 🚀 Sobre Mí
+
+```python
+class AndresFelipe:
+    def __init__(self):
+        self.nombre = "Andrés Felipe Galeano Téllez"
+        self.rol = "Estudiante de Ingeniería de Sistemas"
+        self.ubicacion = "Colombia 🇨🇴"
+        self.lenguajes = ["Python", "Java", "JavaScript", "SQL"]
+        self.intereses = ["Desarrollo Web", "Ciencia de Datos", "IA", "Cloud Computing"]
+        self.objetivo = "Convertirme en un desarrollador full-stack excepcional"
+    
+    def saludo(self):
+        return "¡Hola! Soy un apasionado por la tecnología y la innovación 🚀"
+    
+    def mision(self):
+        return "Crear soluciones tecnológicas que impacten positivamente la sociedad"
+
+desarrollador = AndresFelipe()
+print(desarrollador.saludo())
 
 ---
 
