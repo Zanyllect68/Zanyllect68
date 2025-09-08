@@ -53,7 +53,13 @@
 - SSH Honeypot (Python)
   - Script de honeypot para capturar intentos y patrones de acceso.
 
+- Suite de Fuzzing Web (Bash)
+  - Proyecto automatizado en Bash para realizar fuzzing web usando ffuf, wfuzz, gobuster y dirb.
+  - Menú interactivo, modular y fácil de mantener: permite seleccionar diccionarios, guardar registros y personalizar la experiencia.
+  - Ideal para pentesters y entusiastas de la seguridad web.
+  - Repo sugerido: https://github.com/mrchangretta/script-auto_fuzzing
 
+---
 
 ---
 
