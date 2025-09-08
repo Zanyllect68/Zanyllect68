@@ -46,7 +46,7 @@
 - Sistema de PQRS (Spring Boot + PostgreSQL + Tailwind)
   - Backend con autenticación, gestión de usuarios y flujo de solicitudes.
   - Frontend estático con consultas por radicado y panel administrativo.
-  - Repo : [https://github.com/mrchangretta/Sistema-De-PQRS](https://github.com/diegoMV17/Sistema-De-PQRS)
+  - Repo : [https://github.com/Zanyllect68/Sistema-De-PQRS](https://github.com/diegoMV17/Sistema-De-PQRS)
 
 - Aplicación Web de Votación (Python/Flask)
   - Plataforma para gestionar elecciones y votaciones: registro de usuarios, creación de elecciones, votación y resultados en tiempo real.
@@ -54,7 +54,7 @@
   - Incluye autenticación, edición de perfil, logs de votaciones e identificaciones, y administración de usuarios.
   - Requisitos: Python 3.x, Flask, dependencias en requirements.txt.
   - Instalación sencilla: clona el repo, instala dependencias y ejecuta .
-  - Repo sugerido: [https://github.com/mrchangretta/app-votacion](https://github.com/danielFer54/SeguridadWebVotacion)
+  - Repo sugerido: [https://github.com/Zanyllect68/app-votacion](https://github.com/danielFer54/SeguridadWebVotacion)
 
 
 
@@ -62,7 +62,7 @@
   - Proyecto automatizado en Bash para realizar fuzzing web usando ffuf, wfuzz, gobuster y dirb.
   - Menú interactivo, modular y fácil de mantener: permite seleccionar diccionarios, guardar registros y personalizar la experiencia.
   - Ideal para pentesters y entusiastas de la seguridad web.
-  - Repo : https://github.com/mrchangretta/script-auto_fuzzing
+  - Repo : https://github.com/Zanyllect68/script-auto_fuzzing
 
 ---
 
