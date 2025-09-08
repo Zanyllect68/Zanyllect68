@@ -46,14 +46,14 @@
 - Sistema de PQRS (Spring Boot + PostgreSQL + Tailwind)
   - Backend con autenticación, gestión de usuarios y flujo de solicitudes.
   - Frontend estático con consultas por radicado y panel administrativo.
-  - Repo sugerido: https://github.com/mrchangretta/Sistema-De-PQRS
+  - Repo sugerido: [https://github.com/mrchangretta/Sistema-De-PQRS](https://github.com/diegoMV17/Sistema-De-PQRS)
 
 
 
 - SSH Honeypot (Python)
   - Script de honeypot para capturar intentos y patrones de acceso.
 
-<sub>Nota: Sustituye los enlaces sugeridos por los repos reales si difieren.</sub>
+
 
 ---
 
