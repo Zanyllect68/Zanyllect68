@@ -48,10 +48,15 @@
   - Frontend estático con consultas por radicado y panel administrativo.
   - Repo : [https://github.com/mrchangretta/Sistema-De-PQRS](https://github.com/diegoMV17/Sistema-De-PQRS)
 
+- Aplicación Web de Votación (Python/Flask)
+  - Plataforma para gestionar elecciones y votaciones: registro de usuarios, creación de elecciones, votación y resultados en tiempo real.
+  - Estructura modular con templates HTML para cada vista (dashboard, gestión de candidatos, resultados, etc.).
+  - Incluye autenticación, edición de perfil, logs de votaciones e identificaciones, y administración de usuarios.
+  - Requisitos: Python 3.x, Flask, dependencias en requirements.txt.
+  - Instalación sencilla: clona el repo, instala dependencias y ejecuta `python app.py`.
+  - Repo sugerido: https://github.com/mrchangretta/app-votacion
 
 
-- SSH Honeypot (Python)
-  - Script de honeypot para capturar intentos y patrones de acceso.
 
 - Suite de Fuzzing Web (Bash)
   - Proyecto automatizado en Bash para realizar fuzzing web usando ffuf, wfuzz, gobuster y dirb.
