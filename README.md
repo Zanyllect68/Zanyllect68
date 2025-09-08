@@ -53,8 +53,8 @@
   - Estructura modular con templates HTML para cada vista (dashboard, gestión de candidatos, resultados, etc.).
   - Incluye autenticación, edición de perfil, logs de votaciones e identificaciones, y administración de usuarios.
   - Requisitos: Python 3.x, Flask, dependencias en requirements.txt.
-  - Instalación sencilla: clona el repo, instala dependencias y ejecuta `python app.py`.
-  - Repo sugerido: https://github.com/mrchangretta/app-votacion
+  - Instalación sencilla: clona el repo, instala dependencias y ejecuta .
+  - Repo sugerido: [https://github.com/mrchangretta/app-votacion](https://github.com/danielFer54/SeguridadWebVotacion)
 
 
 
