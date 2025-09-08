@@ -25,9 +25,6 @@
 
 
 
-<div align="center">
-  <img src="https://github.com/mrchangretta/mrchangretta/blob/main/Working%20Computer%20Science%20GIF%20by%20CC0%20Studios.gif" width="33%">
 
-</div>
 
 
