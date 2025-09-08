@@ -78,11 +78,6 @@
 
 
 
-<div align="center">
-  <sub>¿Te interesa colaborar o tienes feedback? ¡Abramos un issue en algún repo! 🚀</sub>
-</div>
-
-
 
 
 
