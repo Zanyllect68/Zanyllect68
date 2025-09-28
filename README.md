@@ -59,7 +59,7 @@
 
 
 - Suite de Fuzzing Web 
-  - Proyecto automatizado en Bash para realizar fuzzing web usando ffuf, wfuzz, gobuster y dirb.
+  - Proyecto automatizado en python para realizar fuzzing web usando ffuf, wfuzz, gobuster y dirb.
   - Menú interactivo, modular y fácil de mantener: permite seleccionar diccionarios, guardar registros y personalizar la experiencia.
   - Ideal para pentesters y entusiastas de la seguridad web.
   - Repo : https://github.com/Zanyllect68/script-auto_fuzzing
