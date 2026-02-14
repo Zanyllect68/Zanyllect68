@@ -8,8 +8,6 @@
 
 ---
 
----
-
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
@@ -26,7 +24,6 @@
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3"/>
-
   
   <!-- Datos / DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL"/>
@@ -43,26 +40,23 @@
 
 ## 🚀 Proyectos destacados
 
-- Sistema de PQRS (Spring Boot + PostgreSQL + Tailwind)
-  - Backend con autenticación, gestión de usuarios y flujo de solicitudes.
-  - Frontend estático con consultas por radicado y panel administrativo.
-  - Repo : [https://github.com/Zanyllect68/Sistema-De-PQRS](https://github.com/diegoMV17/Sistema-De-PQRS)
+### Sistema de PQRS (Spring Boot + PostgreSQL + Tailwind)
+- Backend con autenticación, gestión de usuarios y flujo de solicitudes
+- Frontend estático con consultas por radicado y panel administrativo
+- Repositorio: [Sistema-De-PQRS](https://github.com/Zanyllect68/Sistema-De-PQRS)
 
-- Aplicación Web de Votación (Python/Flask)
-  - Plataforma para gestionar elecciones y votaciones: registro de usuarios, creación de elecciones, votación y resultados en tiempo real.
-  - Estructura modular con templates HTML para cada vista (dashboard, gestión de candidatos, resultados, etc.).
-  - Incluye autenticación, edición de perfil, logs de votaciones e identificaciones, y administración de usuarios.
-  - Requisitos: Python 3.x, Flask, dependencias en requirements.txt.
-  - Instalación sencilla: clona el repo, instala dependencias y ejecuta .
-  - Repo sugerido: [https://github.com/Zanyllect68/app-votacion](https://github.com/danielFer54/SeguridadWebVotacion)
+### Aplicación Web de Votación (Python/Flask)
+- Plataforma para gestionar elecciones y votaciones: registro de usuarios, creación de elecciones, votación y resultados en tiempo real
+- Estructura modular con templates HTML para cada vista (dashboard, gestión de candidatos, resultados)
+- Incluye autenticación, edición de perfil, logs de votaciones e identificaciones, y administración de usuarios
+- Requisitos: Python 3.x, Flask, dependencias en requirements.txt
+- Repositorio: [app-votacion](https://github.com/Zanyllect68/app-votacion)
 
-
-
-- Suite de Fuzzing Web 
-  - Proyecto automatizado en python para realizar fuzzing web usando ffuf, wfuzz, gobuster y dirb.
-  - Menú interactivo, modular y fácil de mantener: permite seleccionar diccionarios, guardar registros y personalizar la experiencia.
-  - Ideal para pentesters y entusiastas de la seguridad web.
-  - Repo : https://github.com/Zanyllect68/script-auto_fuzzing
+### Suite de Fuzzing Web
+- Proyecto automatizado en Python para realizar fuzzing web usando ffuf, wfuzz, gobuster y dirb
+- Menú interactivo, modular y fácil de mantener: permite seleccionar diccionarios, guardar registros y personalizar la experiencia
+- Ideal para pentesters y entusiastas de la seguridad web
+- Repositorio: [script-auto_fuzzing](https://github.com/Zanyllect68/script-auto_fuzzing)
 
 ---
 
@@ -73,13 +67,3 @@
   <img height="165" src="https://streak-stats.demolab.com?user=Zanyllect68&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanyllect68&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes más usados"/>
 </div>
-
-
----
-
-
-
-
-
-
-
