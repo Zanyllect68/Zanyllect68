@@ -63,7 +63,19 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Zanyllect68&theme=tokyonight&hide_border=true&v=1" alt="Racha de contribuciones"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanyllect68&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" alt="Lenguajes más usados"/>
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" 
+    alt="Estadísticas de GitHub de anuraghazra"
+  />
+  <img 
+    height="165" 
+    src="https://streak-stats.demolab.com?user=Zanyllect68&theme=tokyonight&hide_border=true&v=1" 
+    alt="Racha de contribuciones de Zanyllect68"
+  />
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanyllect68&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" 
+    alt="Lenguajes más usados por Zanyllect68"
+  />
 </div>
